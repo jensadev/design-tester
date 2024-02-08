@@ -1,0 +1,17 @@
+{
+  "name": "design-tester",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "scripts": {
+    "start": "eleventy --serve",
+    "build": "eleventy"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@11ty/eleventy": "^3.0.0-alpha.4",
+    "clean-css": "^5.3.3"
+  }
+}
